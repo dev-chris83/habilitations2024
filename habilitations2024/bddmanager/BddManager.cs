@@ -1,6 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
-using Devart.Data.MySql;
+using MySql.Data.MySqlClient;
 
 namespace habilitations2024.bddmanager
 {
